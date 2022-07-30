@@ -1,6 +1,7 @@
 import ISubscriber from "./ISubscriber";
 
 export default interface IPublisher {
+  subscribers: Array<ISubscriber>;
   subscribe(subscriber: ISubscriber): void;
   unsubscribe(subscriber: ISubscriber): void;
   unsubscribeAll(): void;

@@ -1,13 +1,13 @@
 # Design Pattern In Practice
 I've created this project to practice a few known design patterns, for this I'm using:
-javascript: because it is very friendly and easy language to get along with 
-typescript: because javascript doesn't undestand the concepts of interfaces and also because its power of creating other useful types 
-node: get the results in the computer console is much simpler than needing to use the browser.
+* javascript: because it is very friendly and easy language to get along with 
+* typescript: because javascript doesn't undestand the concepts of interfaces and also because its power of creating other useful types 
+* node: get the results in the computer console is much simpler than needing to use the browser.
 
 
 ## Get it up and running
 
-### >With Node and NPM/YARN Installed (Execute this process to the api and client project) .
+### With Node and NPM/YARN Installed (Execute this process to the api and client project) .
 
 1 - Install the dependencies
 

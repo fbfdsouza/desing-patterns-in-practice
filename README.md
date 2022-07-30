@@ -1,8 +1,8 @@
 # Design Pattern In Practice
 I've created this project to practice a few known design patterns, for this I'm using:
-* javascript: because it is very friendly and easy language to get along with 
+* javascript: because it is a very friendly and easy-to-use language 
 * typescript: because javascript doesn't undestand the concepts of interfaces and also because its power of creating other useful types 
-* node: get the results in the computer console is much simpler than needing to use the browser.
+* node: getting the results in the computer console is much simpler than needing to use the browser.
 
 
 ## Get it up and running

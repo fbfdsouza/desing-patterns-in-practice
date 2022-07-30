@@ -27,18 +27,17 @@ Everything starts here, to get to undestand design patterns we need to know the 
 
 ## S: Single Responsability principle
 
-
 Functions, Method, Classes shouldn't be doing more than one thing neither having more than one purpose.
 
 ## O: OPEN Closed Principle
-
 
 Open to extension vs Close to modification - NOT TOO CLEAR RIGHT?
 Not to be confused with extending classes for inheritance.
 
 Make less changeable classes, if you have too many if/switch statements you're probably
 breaking this principle. Let other classes implement the interface your client class need,
-and don't worry with comparing instaces of them.
+and don't worry with comparing instaces of them. The strategy design patter is a great example
+to show what this principle is all about.
 
 
 ## L: Livosky Substitution Principle

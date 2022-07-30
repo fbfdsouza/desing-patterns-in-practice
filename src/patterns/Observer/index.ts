@@ -1,7 +1,14 @@
 import { Publisher, Subscriber } from "./classes";
 
 /**
+ * Publisher is in charge of having an array of subscribers, and control that array
+ * with adding new subscribers, removing them, updating them with new data
  *
+ * All the Publisher methods are defined in the interface IPublisher
+ *
+ * Subscriber is only responsable for receiving updates
+ *
+ * The only method the subscriber has to implement (update) is defined in the interface ISubscriber
  */
 
 export default () => {

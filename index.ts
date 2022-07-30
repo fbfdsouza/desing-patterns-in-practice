@@ -1,7 +1,4 @@
-import {
-  ProxyDesignPatternExample,
-  ObserverDesingPatternExample,
-} from "./src/patterns";
+import { ProxyDesignPatternExample, ObserverDesingPatternExample } from "./src";
 
 // ProxyDesignPatternExample();
 ObserverDesingPatternExample();

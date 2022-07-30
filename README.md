@@ -23,7 +23,7 @@ yarn runit
 
 # SOLID
 
->Everything starts here, to get to undestand design patterns we need to know the concepts of SOLID very well
+Everything starts here, to get to undestand design patterns we need to know the concepts of SOLID very well
 
 ## S: Single Responsability principle
 

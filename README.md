@@ -1,4 +1,4 @@
-# Design Pattern In Practice
+# Design Patterns In Practice
 I've created this project to practice a few known design patterns, for this I'm using:
 * javascript: because it is a very friendly and easy-to-use language 
 * typescript: because javascript doesn't undestand the concepts of interfaces and also because its power of creating other useful types 
